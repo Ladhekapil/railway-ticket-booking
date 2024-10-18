@@ -25,6 +25,5 @@ tower.jpg (Eiffel Tower image)
 ## video link
 https://drive.google.com/file/d/1dWWe_jmPQGVAJjDX5AzPA0y58iJo3uZn/view?usp=drivesdk
 
-## Clone the repository
-https://github.com/Ladhekapil/railway-ticket-booking.git
-
+## live Demo
+https://purple-glacier-03d3fbd10.5.azurestaticapps.net
